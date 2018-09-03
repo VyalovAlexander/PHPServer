@@ -1,0 +1,15 @@
+{
+    "name": "vyalov.alexander/phpsserver",
+    "authors": [
+        {
+            "name": "Vyalov Alexander",
+            "email": "vyalov.alexander@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "VyalovAlexander\\PHPServer\\" : "src"
+        }
+    },
+    "require": {}
+}
